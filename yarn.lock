@@ -2890,9 +2890,9 @@
     web3-provider-engine "^16.0.3"
 
 "@metamask/design-tokens@^1.6.5":
-  version "1.6.5"
-  resolved "https://registry.yarnpkg.com/@metamask/design-tokens/-/design-tokens-1.6.5.tgz#e585b67f73ce301e0218d98ba89e079f7e81c412"
-  integrity sha512-5eCrUHXrIivXX1xx6kwNtM9s/ejhrPYSATSniFc7YKS9z+TkCK4/n52owOBnDIbrL8W3XxQIiaaqQAM+NQad4w==
+  version "1.13.0"
+  resolved "https://registry.yarnpkg.com/@metamask/design-tokens/-/design-tokens-1.13.0.tgz#b91677f2abe014a8ee809f3fd7a865a89aa0294d"
+  integrity sha512-kkQIaoFm8aRypKpwEY+Nz45u56U5Gtc3AlpWyaP8pg3oerjOBBkCePpCpXL9wlPlvKmuGsTGeiVxd3j/TNNnpg==
 
 "@metamask/eslint-config-jest@^9.0.0":
   version "9.0.0"
